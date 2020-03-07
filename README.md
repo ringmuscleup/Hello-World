@@ -5,7 +5,6 @@ You whattup people of the 5678, this is yo boi Jebidiah brunson and the broffing
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Gregs big day out</title>
   </head>
   <body>
     <p>Why doesn't my arm start growing a machine gun on it?</p>
